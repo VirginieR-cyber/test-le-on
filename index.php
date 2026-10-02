@@ -1,1 +1,1 @@
-<?php echo 'Bonjour depuis PHP'; ?>
+<?php echo 'Bonjour, version 2 du site'; ?>
